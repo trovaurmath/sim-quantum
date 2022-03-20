@@ -1,4 +1,4 @@
-# sim-quantum
+# sim-quantum reutilizando um codigo 
 from scipy import integrate
 from scipy import sparse
 
